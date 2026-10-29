@@ -1,0 +1,2 @@
+# pygame-ce fornece o módulo importado como pygame. Há rodas para Windows/Python 3.14.
+pygame-ce>=2.5.6,<3
