@@ -2,7 +2,7 @@
 
 Aplicação em Python para acompanhar, passo a passo, como a descida do gradiente ajusta uma reta aos pontos de observação. O exemplo inicial reproduz a subseção **5.3.5 — Como o treinamento modifica um modelo** da apostila de Introdução à Inteligência Artificial.
 
-A interface parte da organização do projeto fornecido **Visualizador de Busca em Grade — BFS, DFS e UCS**: Pygame, janela redimensionável, tema escuro, controles de passo e execução com intervalo configurável. Os componentes de botão, controle de tempo e ajuste de DPI foram adaptados desse exemplo.
+A interface foi construída com Pygame, janela redimensionável, tema escuro, controles de passo e execução com intervalo configurável. Os componentes de botão, controle de tempo e ajuste de DPI foram adaptados desse exemplo.
 
 ![Tela da aplicação após o primeiro passo](imagem_exemplo.png)
 
